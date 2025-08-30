@@ -1,2 +1,158 @@
 # YouthForge
 YouthForge is a practical learning-and-build space for young developers to collaborate on AI research, systems, and real projects that matter.
+# 🌍 YouthForge — Build AI from Scratch (Student-Led)
+
+> **Project Lead:** Mikiyas Olana(Ethiopia) 🇪🇹
+
+**Short description**
+
+AfroSystem is a student-led, long-term project to build an original AI system from the ground up. We’re assembling a global team of teenagers who want to learn, experiment, and build real systems together — from research prototypes to production-ready components.
+
+---
+
+## 🚀 Why this repo
+
+This repo is the project home and the place where new contributors can learn about the vision, see project progress, and find tasks to start working on. If you want to join a serious learning team and help build an AI from scratch, start here.
+
+---
+
+## 🔹 Current status
+
+* **Planning & early prototypes** (initial signup/login and project structure in progress)
+* We’re focusing on: research experiments, small prototypes, and building a strong learning culture.
+
+---
+
+## 📋 What we’re looking for
+
+We want **teenagers** who are serious, patient, and ready to commit. We value drive, curiosity, and consistency over perfect resumes.
+
+**Preferred skills (strong preference):**
+
+* Python (prototyping, ML research)
+* C++ / C (performance & low-level implementations)
+* C# / Java (optional — tooling, GUIs)
+* Solid math & logic (linear algebra, calculus, probability/statistics, discrete math)
+* Algorithms & data structures
+* Basics of machine learning (supervised/unsupervised/reinforcement learning)
+
+**Short, clear policy:**
+
+> You don’t need perfect English or a fancy resume. What matters is that you show up, work hard, and keep learning.
+
+---
+
+## 🔧 Core requirements to build AI *from scratch*
+
+(These are the areas contributors should learn and grow in while working on the project.)
+
+* **Mathematics:** linear algebra (tensors/matrices), calculus (gradients/backprop), probability & stats, discrete math/logic.
+* **Algorithms & Optimization:** gradient descent variants, numerical stability, convex vs nonconvex optimization, search/evolutionary methods.
+* **Systems & Software Engineering:** multithreading, memory management, performance profiling, containerization, distributed training basics.
+* **Low-level Implementation:** ability to write efficient numerical code (C/C++) and understand GPU acceleration.
+* **Model Design & Research:** architecture design, loss functions, regularization, experiment design, reproducibility.
+* **Data Engineering:** data collection, cleaning, labeling, pipelines, DBs (SQL/NoSQL).
+* **Evaluation & Safety:** metrics, testing, validation, robustness, bias checks, ethical considerations.
+* **Dev Tools:** Git, CI/CD basics, unit testing, code review practices.
+* **Hardware & Deployment:** GPUs/TPUs, cloud vs local tradeoffs, inference optimization.
+* **Soft skills:** teamwork, clear communication, documentation, patience, and respect.
+
+---
+
+## 🧩 Example roles we need
+
+* Research / Model Architects
+* ML Engineers (training & evaluation)
+* Low-level Engineers (C++ / performance)
+* Data Engineers / Labelers
+* Backend / DevOps (APIs, servers)
+* Frontend / UX (dashboard, site)
+* QA / Testing / Security
+* Designer / Product thinker
+
+---
+
+## ⚙️ How we’ll work (rules & workflow)
+
+* **No payment for now.** This is a passion project. When we launch, we will share profits fairly among contributors.
+* **Meetings:** We plan **10 online meetings per month**. The team collectively decides the meeting days and times; we will pick slots that consider the project lead’s school schedule. Scheduling is a team decision.
+* **Team decisions:** No single person decides alone — we discuss, argue respectfully, and vote when needed.
+* **Respect:** No childish drama, no bossy behavior. Everyone’s voice matters.
+* **Commitment:** Join only if you’re ready to stay and build trust — don’t drop out mid-way.
+* **Learning culture:** Pair-programming, code reviews, mentoring, and shared study sessions are encouraged.
+
+---
+
+## 📥 How to join / apply
+
+If you’re interested, please open a new issue titled `📨 Join request — <your-name>` and include:
+
+* Name / age / country
+* Skills & experience (or what you’re learning)
+* Role(s) you want to try
+* Hours/week you can commit
+
+Alternatively, DM through the project’s Discord (link in the repo description) or contact: **[mikiyasolana382@gmail.com](mailto:mikiyasolana382@gmail.com)**.
+
+---
+
+## 🛠️ Getting started (for contributors)
+
+1. Fork this repository and create a branch `feature/<your-name>-<short-task>`.
+2. Pick an open issue labeled `good-first-issue` or `help-wanted`.
+3. Create a PR to `develop` branch when your work is ready. Include tests & a short description.
+4. Follow the CODE\_OF\_CONDUCT.md and CONTRIBUTING.md.
+
+> We will add templates (issue, PR, code of conduct, contributing) soon — contributions to those files are welcome.
+
+---
+
+## 🗂 Repo structure (suggested)
+
+```
+/README.md            # This file
+/CONTRIBUTING.md      # How to contribute
+/CODE_OF_CONDUCT.md   # Expected behavior
+/LICENSE              # Choose a license (MIT or similar)
+/docs/                # Research notes, experiment logs
+/src/                 # Code (organize by component)
+  /research/
+  /training/
+  /inference/
+/data/                # Data pipeline and examples (use .gitignore for raw large data)
+/notebooks/           # Jupyter notebooks for experiments
+/scripts/             # helper scripts
+/tests/               # unit & integration tests
+
+```
+
+---
+
+## 📚 Learning resources (starter list)
+
+* *Linear Algebra, Calculus, Probability & Statistics* — Khan Academy, 3Blue1Brown (YouTube)
+* *Intro ML / Deep Learning* — Coursera (Andrew Ng), Fast.ai
+* *PyTorch / TensorFlow* — official docs and tutorials
+* *Low-level & optimization* — C++ numerical libraries, CUDA basics
+
+---
+
+## 🤝 Values & vision
+
+We’re building more than code — we’re building trust, skills, and a team that will stick together through the long work of research and engineering. If you want to be serious, patient, and hungry to learn, this is the place.
+
+---
+
+## 📜 License
+
+Choose a license when we decide (MIT recommended for open collaboration). If we choose to keep some parts private later, we’ll update the repo and document the policy.
+
+---
+
+## ✨ Contact
+
+Project lead: **Mikiyas** — Email: [mikiyasolana382@gmail.com](mailto:mikiyasolana382@gmail.com)
+
+---
+
+*Ready to join? Open a `📨 Join request` issue and tell us about yourself.*
